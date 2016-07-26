@@ -1,0 +1,18 @@
+﻿  ui.c
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(41): warning C4101: “fGotMessage”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(40): warning C4101: “msg”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(38): warning C4101: “hwnd”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(352): warning C4101: “bmp”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(412): warning C4047: “初始化”:“LPBULLET”与“unsigned int”的间接级别不同
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(497): warning C4047: “=”:“LPBULLET”与“unsigned int”的间接级别不同
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(510): warning C4101: “hdcMem”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(510): warning C4101: “hdc”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(513): warning C4101: “lprect”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(511): warning C4101: “ps”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(512): warning C4101: “rect”: 未引用的局部变量
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(369): warning C4715: “OnCreate”: 不是所有的控件路径都返回值
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(381): warning C4716: “OnReSizeAndMove”: 必须返回一个值
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(502): warning C4716: “OnTimer”: 必须返回一个值
+c:\users\dell\documents\visual studio 2015\projects\flysky2\flysky2\ui.c(486): warning C4716: “OnKeyDown”: 必须返回一个值
+  flysky2.vcxproj -> C:\Users\dell\Documents\Visual Studio 2015\Projects\flysky2\Debug\flysky2.exe
+  flysky2.vcxproj -> C:\Users\dell\Documents\Visual Studio 2015\Projects\flysky2\Debug\flysky2.pdb (Partial PDB)
